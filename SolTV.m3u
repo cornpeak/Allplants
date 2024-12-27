@@ -1,6 +1,6 @@
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-#所有内容均收集于互联网，仅供本人测试使用，请勿转载，售卖。
+#所有内容均收集于互联网，仅供本人测试使用，非商业用途，请勿转载，售卖。
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
@@ -127,7 +127,7 @@ http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-id="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道", 康巴卫视
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道", 三沙卫视
-https://cntv.lat/tv?auth=202311030915&id=ssws
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道", 香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-id="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视频道", 农林卫视
@@ -205,5 +205,5 @@ http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京少儿.png" group-title="地方频道", 南京少儿
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-name="南京信息" tvg-id="南京信息" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京信息.png" group-title="地方频道", 南京信息
-http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-name="南京文旅纪录" tvg-id="南京文旅纪录" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京信息.png" group-title="地方频道", 南京文旅纪录
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
