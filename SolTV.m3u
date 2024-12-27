@@ -124,7 +124,7 @@ http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道", 兵团卫视
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道", 西藏卫视
-http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+http://223.110.247.161:6610/gitv/live1/G_XIZANG/G_XIZANG
 #EXTINF:-1 tvg-name="康巴卫视" tvg-id="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道", 康巴卫视
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道", 三沙卫视
