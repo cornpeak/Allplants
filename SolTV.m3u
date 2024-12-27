@@ -1,5 +1,4 @@
-
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
 #所有内容均收集于互联网，仅供本人测试使用，非商业用途，请勿转载，售卖。
 
 #央视频道
@@ -7,10 +6,6 @@
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道", CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="央视频道",纯享4K
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视频道", 中央新影 老故事
-http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2 财经" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2
@@ -49,6 +44,12 @@ http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道", CGTN
 http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="央视频道", 重温经典
+http://148.135.93.213:81/live.php?id=重温经典
+#EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="央视频道",纯享4K
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视频道", 中央新影 老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道", 北京卫视
