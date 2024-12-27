@@ -120,7 +120,7 @@ http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道", 青海卫视
 http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
+#EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000064/index.m3u8?
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道", 新疆卫视
 http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
@@ -136,17 +136,17 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-id="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视频道", 农林卫视
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-id="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000046/index.m3u8?
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-id="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-id="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000072/index.m3u8?
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000067/index.m3u8?
-#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000528/index.m3u8?
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
+#EXTINF:-1 tvg-name="纪实科教" tvg-id="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000515/index.m3u8?
 
 #地方频道
