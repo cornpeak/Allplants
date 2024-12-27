@@ -89,6 +89,7 @@ http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道", 广东卫视
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-id="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道", 大湾区卫视
+http://[2409:8087:5e08:25::5]:6610/200000001898/460000089800010108/?IASHttpSessionId=RR244820240815025105302868&ispcode=1219
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道", 东南卫视
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-id="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="卫视频道", 海峡卫视
@@ -120,7 +121,7 @@ http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视频道", 青海卫视
 http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道", 新疆卫视
-http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道", 兵团卫视
 http://223.110.235.16/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视频道", 西藏卫视
