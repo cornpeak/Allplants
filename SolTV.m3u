@@ -44,10 +44,6 @@ http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道", CGTN
 http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="央视频道", 重温经典
-http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="央视频道",纯享4K
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视频道", 中央新影 老故事
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 
@@ -186,6 +182,10 @@ http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
 http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 
 #NewTV
+#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道", 重温经典
+http://148.135.93.213:81/live.php?id=重温经典
+#EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字频道",纯享4K
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道", 睛彩竞技
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 tvg-name="中国功夫" tvg-id="中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="数字频道", 中国功夫
