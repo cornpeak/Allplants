@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://epg.iill.top/epg"
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#所有内容均收集于互联网，仅供本人测试使用，请勿转载，售卖。
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
@@ -130,7 +132,6 @@ https://cntv.lat/tv?auth=202311030915&id=ssws
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-id="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视频道", 农林卫视
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
-
 #少儿频道
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道", 卡酷少儿
 http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
