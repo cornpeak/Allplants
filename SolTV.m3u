@@ -161,6 +161,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8#http://223.110.255.131:6610/gitv/live1/G_SQZH/G_SQZH/1.m3u8
 #EXTINF:-1 tvg-name="宿迁公共" tvg-id="宿迁公共" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/宿迁公共.png" group-title="地方频道", 宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8#http://223.110.255.131:6610/gitv/live1/G_SQGG/G_SQGG/1.m3u8
+#EXTINF:-1 tvg-name="盐城1" tvg-id="盐城1" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/盐城综合.png" group-title="地方频道", 盐城1
+http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-name="盐城2" tvg-id="盐城2" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/盐城民生.png" group-title="地方频道", 盐城2
+http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-name="盐城3" tvg-id="盐城3" tvg-logo="https://epg.112114.xyz/logo/盐城3.png" group-title="地方频道", 盐城3
+http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 tvg-name="徐州1套" tvg-id="徐州1" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/徐州新闻综合.png" group-title="地方频道", 徐州1
 http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-name="徐州2套" tvg-id="徐州2" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/徐州经济生活.png" group-title="地方频道", 徐州2
