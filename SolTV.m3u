@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 #所有内容均收集于互联网，仅供本人测试使用，非商业用途，请勿转载，售卖。
 #适用于江苏移动宽带网络。
@@ -197,41 +197,35 @@ http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿频道", 嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 
-#国际频道
-#EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际频道", 凤凰中文
-http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际频道", 凤凰资讯
-http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港台" tvg-id="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际频道", 凤凰香港台
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-name="AlJazeera" tvg-id="AlJazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际频道", AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="CNA" tvg-id="CNA" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际频道", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="Arirang" tvg-id="Arirang" tvg-logo="https://live.fanmingming.com/tv/ArirangTV.png" group-title="国际频道", Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#SiTV上海文广
+#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="SiTV数字",上海都市
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$4M FHD
+#EXTINF:-1 tvg-name="东方财经" tvg-id="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="SiTV数字",东方财经
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$8M FHD
+#EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="SiTV数字",法治天地
+http://[2409:8087:5e00:24::1e]:6060/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3$8M FHD
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="SiTV数字",魅力足球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="新视觉" tvg-id="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="SiTV数字",新视觉
+http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1 tvg-name="乐游频道" tvg-id="乐游频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/乐游.png" group-title="SiTV数字",乐游频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/欢笑剧场.png" group-title="SiTV数字",欢笑剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/都市剧场.png" group-title="SiTV数字",都市剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/金色学堂.png" group-title="SiTV数字",金色学堂
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 
-#NewTV
+#数字频道&NewTV
 #EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道", 重温经典
 http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1 tvg-name="Loupe" tvg-id="Loupe" tvg-logo="https://live.fanmingming.com/tv/loupe.png" group-title="数字频道", Loupe
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字频道", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字频道",纯享4K
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-id="4K修复" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/4K修复.png" group-title="数字频道",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-id="乐游频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/乐游.png" group-title="数字频道",乐游频道
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/欢笑剧场.png" group-title="数字频道",欢笑剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/都市剧场.png" group-title="数字频道",都市剧场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/金色学堂.png" group-title="数字频道",金色学堂
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="数字频道",动漫秀场
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
@@ -284,3 +278,31 @@ http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-name="怡伴健康" tvg-id="怡伴健康" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/newtv怡伴健康.png" group-title="数字频道", 怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+
+#国际频道
+#EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际频道", 凤凰中文
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="国际频道", 凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-id="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际频道", 凤凰香港台
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/640px-Fashion_TV_logo.svg.png" group-title="国际频道", Fashion TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Loupe" tvg-id="Loupe" tvg-logo="https://live.fanmingming.com/tv/loupe.png" group-title="国际频道", Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="Love Nature" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="国际频道", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="AlJazeera" tvg-id="AlJazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际频道", AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="CNA" tvg-id="CNA" tvg-logo="https://live.fanmingming.com/tv/channelnewsasia.png" group-title="国际频道", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="Arirang" tvg-id="Arirang" tvg-logo="https://live.fanmingming.com/tv/ArirangTV.png" group-title="国际频道", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-name="BBC America" tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BBC_America_2021.svg/600px-BBC_America_2021.svg.png" group-title="国际频道", BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png" group-title="国际频道", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="KBS World" tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/640px-KBS_World.svg.png" group-title="国际频道", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="国际频道", TBS
+http://143.244.60.30/TBS/index.m3u8
