@@ -152,6 +152,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
+#EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 
 #地方频道
 #EXTINF:-1 tvg-name="宿迁综合" tvg-id="宿迁综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/宿迁综合.png" group-title="地方频道", 宿迁综合
@@ -184,6 +186,16 @@ http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-name="南京影视" tvg-id="南京影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京影视.png" group-title="地方频道", 南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
+#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方频道",上海都市
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&yang-1989
+#EXTINF:-1 tvg-name="上海新闻" tvg-id="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上海新闻.png" group-title="地方频道",上海新闻
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&yang-1989
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&yang-1989
+#EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&yang-1989
+#EXTINF:-1 tvg-name="第一财经" tvg-id="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="地方频道",第一财经
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&yang-1989
 
 #少儿频道
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道", 卡酷少儿
@@ -198,46 +210,36 @@ http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 
 #SiTV上海文广
-#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="SiTV数字",上海都市
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&yang-1989
-#EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="SiTV数字",东方影视
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&yang-1989
-#EXTINF:-1 tvg-name="上海新闻" tvg-id="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上海新闻.png" group-title="SiTV数字",上海新闻
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&yang-1989
-#EXTINF:-1 tvg-name="第一财经" tvg-id="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="SiTV数字",第一财经
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&yang-1989
-#EXTINF:-1 tvg-name="东方财经" tvg-id="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="SiTV数字",东方财经
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&yang-1989
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&yang-1989
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/游戏风云.png" group-title="SiTV数字",游戏风云
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&yang-1989
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="SiTV数字",法治天地
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&yang-1989
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SiTV数字",五星体育
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&yang-1989
 #EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="SiTV数字",劲爆体育
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&yang-1989
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="SiTV数字",魅力足球
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&yang-1989
-#EXTINF:-1 tvg-name="乐游频道" tvg-id="乐游频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/乐游.png" group-title="SiTV数字",乐游频道
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&yang-1989
-#EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="SiTV数字",生活时尚
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&yang-1989
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/欢笑剧场.png" group-title="SiTV数字",欢笑剧场
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&yang-1989
-#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&yang-1989
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/都市剧场.png" group-title="SiTV数字",都市剧场
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&yang-1989
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/金色学堂.png" group-title="SiTV数字",金色学堂
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&yang-1989
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/游戏风云.png" group-title="SiTV数字",游戏风云
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&yang-1989
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/欢笑剧场.png" group-title="SiTV数字",欢笑剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&yang-1989
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-id="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/七彩戏剧.png" group-title="SiTV数字",七彩戏剧
+http://223.166.234.9:7777/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="SiTV数字",生活时尚
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&yang-1989
+#EXTINF:-1 tvg-name="乐游频道" tvg-id="乐游频道" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/乐游.png" group-title="SiTV数字",乐游频道
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&yang-1989
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/都市剧场.png" group-title="SiTV数字",都市剧场
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&yang-1989
+#EXTINF:-1 tvg-name="东方财经" tvg-id="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="SiTV数字",东方财经
+http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&yang-1989
 #EXTINF:-1 tvg-name="新视觉" tvg-id="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="SiTV数字",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 
 #数字频道&NewTV
 #EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道", 重温经典
 http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字频道",中国天气
-http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字频道",纯享4K
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-id="4K修复" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/4K修复.png" group-title="数字频道",4K修复
