@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 #所有内容均收集于互联网，仅供本人测试使用，非商业用途，请勿转载，售卖。
-#适用于江苏移动宽带网络。
+#适用于江苏移动宽带IPv6网络。
 
 #央视频道
 #EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
@@ -48,10 +48,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228095/index.m3u8
 #EXTINF:-1 tvg-name="CGTN 纪录" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道", CGTN纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视频道", 高尔夫网球
-http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视频道", 中央新影 老故事
-http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道", 北京卫视
@@ -211,6 +207,36 @@ http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿频道", 嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 
+#央视数字频道
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视数字", CHC动作电影
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视数字", CHC家庭影院
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视数字", CHC影迷电影
+http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视数字", 世界地理
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-name="兵器科技" tvg-id="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视数字", 兵器科技
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8\
+#EXTINF:-1 tvg-name="央视台球" tvg-id="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视数字", 央视台球
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视数字", 高尔夫网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视数字", 怀旧剧场
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-id="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视数字", 第一剧场
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-name="风云剧场" tvg-id="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视数字", 风云剧场
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-id="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视数字", 风云足球
+http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/1.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-id="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视数字", 风云音乐
+http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-id="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视数字", 电视指南
+http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\
+#EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视数字", 中央新影 老故事
+http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
+
 #SiTV上海文广
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&yang-1989
@@ -246,12 +272,16 @@ http://148.135.93.213:81/live.php?id=重温经典
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-id="4K修复" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/4K修复.png" group-title="数字频道",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="华数4K" tvg-id="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="数字频道",华数4K
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="精彩影视" tvg-id="精彩影视" tvg-logo="https://live.fanmingming.com/tv/JCYS.png" group-title="数字频道",精彩影视
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&yang-1989
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字频道",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字频道",哒啵电竞
+http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-name="百姓生活" tvg-id="百姓生活" tvg-logo="https://live.fanmingming.com/tv/百姓生活.png" group-title="数字频道",百姓生活
