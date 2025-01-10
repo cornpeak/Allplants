@@ -220,7 +220,7 @@ http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8\
 #EXTINF:-1 tvg-name="央视台球" tvg-id="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视数字", 央视台球
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/1.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-id="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视数字", 高尔夫网球
+#EXTINF:-1 tvg-name="央视高网" tvg-id="央视高网" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视数字", 央视高网
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-id="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视数字", 怀旧剧场
 http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -284,7 +284,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-name="百姓生活" tvg-id="百姓生活" tvg-logo="https://live.fanmingming.com/tv/百姓生活.png" group-title="数字频道",百姓生活
+#EXTINF:-1 tvg-name="百姓生活" tvg-id="百姓生活" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/百姓生活.png" group-title="数字频道",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道", 睛彩竞技
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
