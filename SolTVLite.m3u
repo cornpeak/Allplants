@@ -37,13 +37,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15 音乐" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16 奥林匹克" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道", CCTV16
-http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
 #EXTINF:-1 tvg-name="CCTV17 农业农村" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 #EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道", CCTV4K
-http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
+http://148.135.93.213:81/live.php?id=CCTV4K-av3a
 
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道", 北京卫视
@@ -126,6 +126,10 @@ http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://ott.mobaibox.com/PLTV/3/224/3221226999/index.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-id="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
+http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-id="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-id="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
@@ -134,10 +138,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-id="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
-http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-id="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-name="宿迁综合" tvg-id="宿迁综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/宿迁综合.png" group-title="地方频道", 宿迁综合
