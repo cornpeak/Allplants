@@ -291,7 +291,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-name="百姓生活" tvg-id="百姓生活" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/百姓生活.png" group-title="数字频道",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="数字频道", 睛彩竞技
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-id="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字频道", 睛彩青少
 http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="数字频道", 睛彩广场舞
