@@ -161,7 +161,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-id="南京新闻综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京新闻综合.png" group-title="地方频道", 南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-name="南京教科" tvg-id="南京教科" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京教科.png" group-title="地方频道", 南京教科
-http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
 #EXTINF:-1 tvg-name="南京十八" tvg-id="南京十八" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京十八.png" group-title="地方频道", 南京十八
 http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京少儿.png" group-title="地方频道", 南京少儿
