@@ -4,10 +4,6 @@
 #适用于江苏移动宽带IPv6网络。
 
 #央视频道
-#EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道", CCTV4K
-http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/TVOD/3/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2 财经" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2
@@ -44,6 +40,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17 农业农村" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道", CCTV4K
+http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道", CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN 纪录" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道", CGTN纪录
@@ -152,6 +152,18 @@ http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
 
 #地方频道
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏休闲体育.png" group-title="地方频道", 江苏体育休闲
+http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-name="江苏公共新闻" tvg-id="江苏公共新闻" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏公共新闻.png" group-title="地方频道", 江苏公共新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-name="江苏城市" tvg-id="江苏城市" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏城市.png" group-title="地方频道", 江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-name="江苏影视" tvg-id="江苏影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏影视.png" group-title="地方频道", 江苏影视
+http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏综艺.png" group-title="地方频道", 江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-name="江苏教育" tvg-id="江苏教育" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏教育电视台.png" group-title="地方频道", 江苏教育
+http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-name="宿迁综合" tvg-id="宿迁综合" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/宿迁综合.png" group-title="地方频道", 宿迁综合
 http://ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8#http://223.110.255.131:6610/gitv/live1/G_SQZH/G_SQZH/1.m3u8
 #EXTINF:-1 tvg-name="宿迁公共" tvg-id="宿迁公共" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/宿迁公共.png" group-title="地方频道", 宿迁公共
@@ -182,18 +194,6 @@ http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-name="南京影视" tvg-id="南京影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京影视.png" group-title="地方频道", 南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方频道",上海都市
-http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000012
-#EXTINF:-1 tvg-name="上海教育" tvg-id="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="地方频道",上海教育
-http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-name="上海新闻" tvg-id="上海新闻" tvg-logo="https://live.fanmingming.com/tv/上海新闻.png" group-title="地方频道",上海新闻
-http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
-http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000007
-#EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
-http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000013
-#EXTINF:-1 tvg-name="第一财经" tvg-id="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="地方频道",第一财经
-http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000004
 
 #少儿频道
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道", 卡酷少儿
@@ -206,14 +206,16 @@ http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="少儿频道", 嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道", 浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 #央视数字频道
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视数字", CHC动作电影
-http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视数字", CHC家庭影院
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视数字", CHC影迷电影
-http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="世界地理" tvg-id="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视数字", 世界地理
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-id="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视数字", 兵器科技
@@ -240,6 +242,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-id="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视数字", 中央新影 老故事
 http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
+#EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视数字", 中央新影 发现之旅
+http://ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
 
 #SiTV上海文广
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
