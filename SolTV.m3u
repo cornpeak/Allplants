@@ -149,7 +149,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
-http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000057
+http://nas.zyylover.homes:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 
 #地方频道
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏休闲体育.png" group-title="地方频道", 江苏体育休闲
@@ -191,7 +191,7 @@ http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京少儿.png" group-title="地方频道", 南京少儿
 http://223.110.235.17/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-name="南京文旅纪录" tvg-id="南京文旅纪录" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京信息.png" group-title="地方频道", 南京文旅纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-name="南京影视" tvg-id="南京影视" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/南京影视.png" group-title="地方频道", 南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 
