@@ -134,6 +134,8 @@ http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227590/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://ott.mobaibox.com/PLTV/3/224/3221226999/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-id="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="卫视频道", 内蒙古蒙语卫视
+https://stream1.freetv.fun/nei-meng-gu-meng-yu-wei-shi-1.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-id="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
 http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-id="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
@@ -148,8 +150,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
+#EXTINF:-1 tvg-name="中华美食" tvg-id="中华美食" tvg-logo="https://live.fanmingming.cn/tv/中华美食.png" group-title="卫视频道",中华美食
+http://ott.mobaibox.com/PLTV/3/224/3221227017/index.m3u8
+#EXTINF:-1 tvg-name="NNM家庭理财" tvg-id="NNM家庭理财" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/家庭理财.png" group-title="卫视频道",NNM家庭理财
+http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
-http://nas.zyylover.homes:35455/itv/5000000005000031974.m3u8?cdn=bestzb
+https://stream1.freetv.fun/6d606f8515ab45a2662ebda92b98cc2a19800dc59124ce6b98353eff115ce675.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-id="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="卫视频道",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏休闲体育.png" group-title="地方频道", 江苏体育休闲
