@@ -40,20 +40,14 @@ http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17 农业农村" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
-http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K 超高清" tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道", CCTV4K
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道", CGTN
+#EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道", CCTV8K
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-name="CGTN English" tvg-id="CGTN English" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道", CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CGTN 纪录" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道", CGTN纪录
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="CGTN Documentary" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道", CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="央广购物1" tvg-id="央广购物1" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视频道", 央广购物1
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8
-#EXTINF:-1 tvg-name="央广购物2" tvg-id="央广购物2" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视频道", 央广购物2
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221228210/index.m3u8
-#EXTINF:-1 tvg-name="央广购物3" tvg-id="央广购物3" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视频道", 央广购物3
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228172/index.m3u8
 
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道", 北京卫视
@@ -168,10 +162,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227011/index.m3u8
 https://stream1.freetv.fun/6d606f8515ab45a2662ebda92b98cc2a19800dc59124ce6b98353eff115ce675.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-id="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="卫视频道",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 tvg-name="快乐购" tvg-id="快乐购" tvg-logo="https://live.fanmingming.cn/tv/快乐购.png" group-title="卫视频道",快乐购
-http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221228656/index.m3u8
-#EXTINF:-1 tvg-name="优购物" tvg-id="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="卫视频道",优购物
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-name="江苏体育休闲" tvg-id="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/江苏休闲体育.png" group-title="地方频道", 江苏体育休闲
@@ -266,6 +256,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212286
 http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视数字", 中央新影 发现之旅
 http://ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
+#EXTINF:-1 tvg-name="央广购物1" tvg-id="央广购物1" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视数字", 央广购物1
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8
+#EXTINF:-1 tvg-name="央广购物2" tvg-id="央广购物2" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视数字", 央广购物2
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221228210/index.m3u8
+#EXTINF:-1 tvg-name="央广购物3" tvg-id="央广购物3" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视数字", 央广购物3
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228172/index.m3u8
 
 #SiTV上海文广
 #EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/动漫秀场.png" group-title="SiTV数字",动漫秀场
@@ -358,6 +354,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-name="怡伴健康" tvg-id="怡伴健康" tvg-logo="https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/newtv怡伴健康.png" group-title="数字频道", 怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-id="聚鲨环球精选" tvg-logo="https://live.fanmingming.cn/tv/聚鲨环球精选.png" group-title="数字频道",聚鲨环球精选
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221228656/index.m3u8
+#EXTINF:-1 tvg-name="优购物" tvg-id="优购物" tvg-logo="https://live.fanmingming.cn/tv/优购物.png" group-title="数字频道",优购物
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
 
 #国际频道
 #EXTINF:-1 tvg-name="凤凰中文" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="国际频道", 凤凰中文
@@ -366,6 +366,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-id="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际频道", 凤凰香港台
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="Taiwan Plus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="国际频道", Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/640px-Fashion_TV_logo.svg.png" group-title="国际频道", Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Loupe" tvg-id="Loupe" tvg-logo="https://live.fanmingming.com/tv/loupe.png" group-title="国际频道", Loupe
