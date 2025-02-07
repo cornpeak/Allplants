@@ -256,6 +256,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212286
 http://ott.mobaibox.com/PLTV/3/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-name="发现之旅" tvg-id="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视数字", 中央新影 发现之旅
 http://ott.mobaibox.com/PLTV/3/224/3221227030/index.m3u8
+#EXTINF:-1 tvg-name="中学生" tvg-id="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视数字", 中央新影 中学生
+http://ott.mobaibox.com/TVOD/3/224/3221228704/index.m3u8
 #EXTINF:-1 tvg-name="央广购物1" tvg-id="央广购物1" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视数字", 央广购物1
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8
 #EXTINF:-1 tvg-name="央广购物2" tvg-id="央广购物2" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="央视数字", 央广购物2
@@ -366,6 +368,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-id="凤凰香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="国际频道", 凤凰香港台
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-name="环球电视台" tvg-id="环球电视台" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="国际频道", 环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus" tvg-id="Taiwan Plus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png" group-title="国际频道", Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/640px-Fashion_TV_logo.svg.png" group-title="国际频道", Fashion TV
@@ -382,9 +386,15 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-id="CNN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png" group-title="国际频道", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="BBC America" tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BBC_America_2021.svg/600px-BBC_America_2021.svg.png" group-title="国际频道", BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="LiveNow from Fox" tvg-id="livenowfox" tvg-logo="https://live.fanmingming.cn/tv/FoxLive.png" group-title="国际频道",LiveNow from Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-name="RT News" tvg-id="RTNews" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-name="KBS World" tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/640px-KBS_World.svg.png" group-title="国际频道", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-name="NHK World" tvg-id="nhkworld" tvg-logo="https://live.fanmingming.cn/tv/NHKWorld.png" group-title="国际频道",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="BBC America" tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BBC_America_2021.svg/600px-BBC_America_2021.svg.png" group-title="国际频道", BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-name="TBS" tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="国际频道", TBS
 http://143.244.60.30/TBS/index.m3u8
