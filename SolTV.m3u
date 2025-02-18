@@ -184,7 +184,7 @@ http://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.flv
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-name="盐城2" tvg-id="盐城2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/盐城民生.png" group-title="地方频道", 盐城2
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-name="盐城3" tvg-id="盐城3" tvg-logo="https://epg.112114.xyz/logo/盐城3.png" group-title="地方频道", 盐城3
+#EXTINF:-1 tvg-name="盐城3" tvg-id="盐城3" tvg-logo="https://filestorageyc.0515yc.cn/inner-file/storage1-cloudlivemanage/cloudlivemanage/2023/1046/add5546708e13202.png" group-title="地方频道", 盐城3
 http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 #EXTINF:-1 tvg-name="徐州1套" tvg-id="徐州1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/vircloud/TVLogo/refs/heads/main/徐州新闻综合.png" group-title="地方频道", 徐州1
 http://ott.mobaibox.com/PLTV/4/224/3221225945/index.m3u8
