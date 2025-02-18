@@ -44,17 +44,17 @@ http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV8K 超高清" tvg-id="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道", CCTV8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-name="CGTN English" tvg-id="CGTN01" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道", CGTN English
+#EXTINF:-1 tvg-name="CGTN English" tvg-id="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道", CGTN English
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="CGTN02" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道", CGTN Documentary
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-name="CGTN Français" tvg-id="CGTN03" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN Français
+#EXTINF:-1 tvg-name="CGTN Français" tvg-id="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN Français
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN Русский" tvg-id="CGTN04" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN Русский
+#EXTINF:-1 tvg-name="CGTN Русский" tvg-id="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN Español" tvg-id="CGTN05" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN Español
+#EXTINF:-1 tvg-name="CGTN Español" tvg-id="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN Español
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN06" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN العربية
+#EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN العربية
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #卫视频道
